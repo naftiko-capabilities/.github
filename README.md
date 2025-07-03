@@ -1,2 +1,2 @@
-# .github
-The Naftiko home page.
+# Naftiko
+This is the GitHub organization for the Naftiko platform.
